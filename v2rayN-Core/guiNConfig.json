@@ -1,0 +1,78 @@
+{
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 0,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "adjfws25.euewid19.xyz",
+      "port": 443,
+      "id": "290be622-0883-4492-9a4d-ecd2d0329920",
+      "alterId": 444,
+      "security": "auto",
+      "network": "ws",
+      "remarks": "adjfws25.euewid19.xyz",
+      "headerType": "none",
+      "requestHost": "adjfws25.euewid19.xyz",
+      "path": "/623e90e3e/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "configType": 1,
+      "testResult": "",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "domainStrategy": "IPIfNonMatch",
+  "routingMode": "0",
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "listenerType": 2,
+  "speedTestUrl": "http://speedtest-sgp1.digitalocean.com/10mb.test",
+  "speedPingTestUrl": "https://www.google.com/generate_204",
+  "urlGFWList": "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
+  "allowLANConn": false,
+  "enableStatistics": true,
+  "keepOlderDedupl": false,
+  "statisticsFreshRate": 2000,
+  "remoteDNS": "",
+  "defAllowInsecure": false,
+  "subItem": [],
+  "uiItem": {
+    "mainSize": "968, 632",
+    "mainLvColWidth": {
+      "def": 30,
+      "configType": 80,
+      "remarks": 100,
+      "address": 120,
+      "port": 50,
+      "security": 90,
+      "network": 70,
+      "subRemarks": 50,
+      "testResult": 70,
+      "todayDown": 70,
+      "todayUp": 70,
+      "totalDown": 70,
+      "totalUp": 70
+    }
+  },
+  "userPacRule": []
+}

@@ -1,0 +1,76 @@
+{
+  "server": [
+    {
+      "itemId": "YWRqZndzMjEuZXVld2lkMTkueHl6NDQzYWRqZndzMjEuZXVld2lkMTkueHl6LzUyMTQyMGVhYzU4ZDYxLw==",
+      "totalUp": 0,
+      "totalDown": 0,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMTcuZXVld2lkMTkueHl6NDQzYWRqZndzMTcuZXVld2lkMTkueHl6L2IzZjdjZWVmMDI1OC8=",
+      "totalUp": 35848,
+      "totalDown": 792,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "",
+      "totalUp": 20801,
+      "totalDown": 456,
+      "todayUp": 545,
+      "todayDown": 12,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMTUuZXVld2lkMTkueHl6NDQzYWRqZndzMTUuZXVld2lkMTkueHl6L2YwMDUzN2JjLw==",
+      "totalUp": 1003417,
+      "totalDown": 347974537,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMjQuZXVld2lkMTkueHl6NDQzYWRqZndzMjQuZXVld2lkMTkueHl6L2Q3NDlkNGRmLw==",
+      "totalUp": 384742,
+      "totalDown": 93663299,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMi5ldWV3aWQxOS54eXo0NDNhZGpmd3MyLmV1ZXdpZDE5Lnh5ei80ZTQxNi8=",
+      "totalUp": 102732,
+      "totalDown": 7451301,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMTQuZXVld2lkMTkueHl6NDQzYWRqZndzMTQuZXVld2lkMTkueHl6LzAzYzlhZGQv",
+      "totalUp": 728328,
+      "totalDown": 18368472,
+      "todayUp": 98433,
+      "todayDown": 2160,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMTAuZXVld2lkMTkueHl6NDQzYWRqZndzMTAuZXVld2lkMTkueHl6LzNmOTAwNTE4YzI5Lw==",
+      "totalUp": 210975,
+      "totalDown": 4596,
+      "todayUp": 210975,
+      "todayDown": 4596,
+      "dateNow": 637362432000000000
+    },
+    {
+      "itemId": "YWRqZndzMjUuZXVld2lkMTkueHl6NDQzYWRqZndzMjUuZXVld2lkMTkueHl6LzYyM2U5MGUzZS8=",
+      "totalUp": 4208,
+      "totalDown": 120,
+      "todayUp": 4208,
+      "todayDown": 120,
+      "dateNow": 637362432000000000
+    }
+  ]
+}

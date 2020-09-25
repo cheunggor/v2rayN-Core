@@ -1,0 +1,1831 @@
+--------------------------------info[00:14:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:14:53]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:44]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:44]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:44]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:44]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。[00:15:47]--------------------------------
+System.IO.IOException: 无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。 ---> System.Net.Sockets.SocketException: 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.BufferedStream.Write(Byte[] array, Int32 offset, Int32 count)
+   在 System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   在 System.IO.StreamWriter.Write(Char[] buffer, Int32 index, Int32 count)
+   在 v2rayN.Base.HttpWebServerB.WriteStream(StreamWriter outputStream, String pac)
+   在 v2rayN.Base.HttpWebServerB.ProcessThread(Object obj)
+
+ 
+--------------------------------info[00:15:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。[00:15:47]--------------------------------
+System.IO.IOException: 无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。 ---> System.Net.Sockets.SocketException: 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.BufferedStream.Write(Byte[] array, Int32 offset, Int32 count)
+   在 System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   在 System.IO.StreamWriter.Write(Char[] buffer, Int32 index, Int32 count)
+   在 v2rayN.Base.HttpWebServerB.WriteStream(StreamWriter outputStream, String pac)
+   在 v2rayN.Base.HttpWebServerB.ProcessThread(Object obj)
+
+ 
+--------------------------------info[00:15:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。[00:15:47]--------------------------------
+System.IO.IOException: 无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。 ---> System.Net.Sockets.SocketException: 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.BufferedStream.Write(Byte[] array, Int32 offset, Int32 count)
+   在 System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   在 System.IO.StreamWriter.Write(Char[] buffer, Int32 index, Int32 count)
+   在 v2rayN.Base.HttpWebServerB.WriteStream(StreamWriter outputStream, String pac)
+   在 v2rayN.Base.HttpWebServerB.ProcessThread(Object obj)
+
+ 
+--------------------------------info[00:15:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:15:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:08]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:08]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:08]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:08]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:08]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[00:16:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:46]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.23 - 2020/09/01
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------拒绝访问。[02:47:49]--------------------------------
+System.Net.HttpListenerException (0x80004005): 拒绝访问。
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.Base.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: Webserver InitServer 拒绝访问。
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: WebserverB at 127.0.0.1
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:47:53]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:47:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:47:59]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:48:32]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:48:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:48:35]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:48:36]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:48:55]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[02:48:56]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[02:48:56]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:03]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------Application_ThreadException[02:49:03]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:04]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:49:04]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:49:05]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:10]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[02:49:11]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:11]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:11]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:11]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:12]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:12]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:49:13]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[02:49:14]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------Application_ThreadException[02:49:17]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[02:49:17]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:19]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:49:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:50:43]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[02:50:54]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[02:50:55]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:55]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[02:50:55]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[03:17:18]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[03:17:50]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[03:17:56]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[03:17:56]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[03:18:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[03:18:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[03:21:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:57:25]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.23 - 2020/09/01
+
+ 
+--------------------------------info[14:57:29]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------拒绝访问。[14:57:29]--------------------------------
+System.Net.HttpListenerException (0x80004005): 拒绝访问。
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.Base.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[14:57:29]--------------------------------
+System.Exception: Webserver InitServer 拒绝访问。
+
+ 
+--------------------------------info[14:57:29]--------------------------------
+System.Exception: WebserverB at 127.0.0.1
+
+ 
+--------------------------------info[14:57:29]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:57:29]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:59:31]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。[14:59:31]--------------------------------
+System.IO.IOException: 无法将数据写入传输连接: 你的主机中的软件中止了一个已建立的连接。。 ---> System.Net.Sockets.SocketException: 你的主机中的软件中止了一个已建立的连接。
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.BufferedStream.Write(Byte[] array, Int32 offset, Int32 count)
+   在 System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   在 System.IO.StreamWriter.Write(Char[] buffer, Int32 index, Int32 count)
+   在 v2rayN.Base.HttpWebServerB.WriteStream(StreamWriter outputStream, String pac)
+   在 v2rayN.Base.HttpWebServerB.ProcessThread(Object obj)
+
+ 
+--------------------------------info[14:59:32]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:59:32]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:59:32]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:59:33]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[14:59:33]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:01:33]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:01:33]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:01:34]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:01:36]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:01:36]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:01:37]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:01:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:01:42]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:01:43]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:01:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:01:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:03:17]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:03:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:03:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:03:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:03:21]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:03:21]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:03:22]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:07:35]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:07:35]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:07:35]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:07:37]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:13:23]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:13:31]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:13:38]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:14:48]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:14:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:14:54]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:14:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:14:54]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[15:14:54]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:14:56]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:14:57]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:14:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:14:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:16:48]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:16:51]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:16:51]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:16:51]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:16:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[15:19:06]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[15:19:09]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:19:09]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:19:11]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:26:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:27:02]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[15:28:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:08:50]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.23 - 2020/09/01
+
+ 
+--------------------------------info[17:08:51]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------拒绝访问。[17:08:51]--------------------------------
+System.Net.HttpListenerException (0x80004005): 拒绝访问。
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 v2rayN.Base.HttpWebServer..ctor(String[] prefixes, Func`2 method)
+
+ 
+--------------------------------info[17:08:51]--------------------------------
+System.Exception: Webserver InitServer 拒绝访问。
+
+ 
+--------------------------------info[17:08:51]--------------------------------
+System.Exception: WebserverB at 127.0.0.1
+
+ 
+--------------------------------info[17:08:51]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:08:52]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:22]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:53]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:02]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:02]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:04]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:12]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:27]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:27]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:27]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:28]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:30]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:30]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:30]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:30]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:42]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:42]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:42]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:46]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:10:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[17:10:58]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[17:11:10]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[17:11:11]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[17:11:16]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------Application_ThreadException[17:11:16]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[17:11:18]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:18]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:18]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:20]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------Application_ThreadException[17:11:25]--------------------------------
+System.IO.FileLoadException: 未能加载文件或程序集“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+文件名:“zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60”
+   在 v2rayN.Handler.QRCodeHelper.GetQRCode(String strContent)
+   在 v2rayN.Forms.QRCodeControl.showQRCode(Int32 Index, Config config)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   在 System.Windows.Forms.ListView.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+
+
+ 
+--------------------------------info[17:11:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:28]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[17:11:28]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:29]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:32]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:13:05]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[17:13:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:13:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:13:07]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:19:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:19:36]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:19:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:32:04]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:32:05]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:33:23]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:33:25]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:34:17]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:34:37]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:43:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:47:40]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[17:48:58]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:08:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:22:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:38:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:38]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:46]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:46]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:46]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:54:50]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[18:57:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[19:24:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[19:48:57]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[19:54:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:07:53]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:09:10]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:09:58]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:24:49]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:38:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[20:54:54]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[21:08:06]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[21:28:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[21:36:03]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:00:13]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:00:55]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:09:33]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:09:48]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:15:01]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:16:00]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:18:26]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:18:27]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[22:21:13]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:08:34]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:25:09]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:26:27]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:46:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:46:47]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:49:43]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:49:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
+--------------------------------info[23:49:45]--------------------------------
+System.Exception: WebserverB Request 127.0.0.1
+
+ 
